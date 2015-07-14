@@ -7,7 +7,6 @@ dist_pkgdata_DATA = \
 	radio.mvi \
 	black.mvi \
 	rcpositions.xml \
-	keymap.xmle \
 	skin_subtitles.xml \
 	startwizard.xml \
 	freesat.t1 \
